@@ -1,0 +1,7 @@
+{
+  "name": "Tafheem-ul-Quran Q&A (Volume 1)",
+  "description": "Scholarly Q&A chatbot and interactive reader for Tafheem-ul-Quran (Volume 1) with direct page citations and scanned manuscript links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
